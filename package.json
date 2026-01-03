@@ -15,5 +15,14 @@
     "body-parser": "^2.2.1",
     "cors": "^2.8.5",
     "express": "^5.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spenterprise0202-a11y/turf-booking-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spenterprise0202-a11y/turf-booking-backend/issues"
+  },
+  "homepage": "https://github.com/spenterprise0202-a11y/turf-booking-backend#readme"
 }
