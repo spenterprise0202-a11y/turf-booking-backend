@@ -14,9 +14,9 @@
   "dependencies": {
     "body-parser": "^2.2.1",
     "cors": "^2.8.5",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "multer": "^2.0.2"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/spenterprise0202-a11y/turf-booking-backend.git"
